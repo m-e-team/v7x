@@ -1,0 +1,83 @@
+::selection {
+
+    color: #37a055;
+
+    background-color: #0a1a26;
+
+}
+
+* {
+
+    font-family: 'Caveat', cursive;
+
+    font-family: 'Inconsolata', monospace;
+
+    font-family: 'Rubik', sans-serif;
+
+}
+
+body {
+
+    text-align: center;
+
+    background-color: #0e202e;
+
+    color: #5c7;
+
+}
+
+footer {
+
+    position: fixed;
+
+    bottom: 1vh;
+
+    left: 50vw;
+
+    transform: translate(-50%);
+
+}
+
+.start {
+
+    color: #5c7;
+
+    background-color: #0b1b26;
+
+    border-radius: 5vw;
+
+    outline-style: none;
+
+    border-style: none;
+
+    width: 35vw;
+
+    font-size: 2.5vw;
+
+}
+
+.terminal {
+
+    background-color: #0d0d0e;
+
+    height: 35vh;
+
+    width: 100vw;
+
+    padding: 0vw;
+
+    margin: 2vh 0vw 0vh -8px;
+
+    color: white;
+
+}
+
+.terminal h1 {
+
+    color: white;
+
+    padding-top: 2vh;
+
+    font-weight: bold;
+
+}
